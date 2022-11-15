@@ -22,4 +22,5 @@ If you have any errors caused by a dependency while running the code, please sen
 
 ### References
 \[1\]: http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/Proj_Cabspotting.html
+
 \[2\]: Piorkowski, Michal, Natasa Sarafijanovic-Djukic, and Matthias Grossglauser. "A parsimonious model of mobile partitioned networks with clustering." 2009 First International Communication Systems and Networks and Workshops. IEEE, 2009.
