@@ -1,6 +1,6 @@
 # Cabspotting Case Study
 
-The cabspotting.org project (now inactive) collected data on each of San Francisco's Yellow Cabs, including position, timestamp and whether there was a paying customer at the time [1]. The dataset has mobility traces of ~500 taxi cabs in San Francisco collected over ~30 days [2].
+The cabspotting.org project (now inactive) collected data on each of San Francisco's Yellow Cabs, including position, timestamp and whether there was a paying customer at the time \[1\]. The dataset has mobility traces of ~500 taxi cabs in San Francisco collected over ~30 days \[2\].
 
 ## Presentation Link and Jupyter Notebook
 
@@ -21,5 +21,5 @@ The presentation below covers all the analysis done in this case study.
 If you have any errors caused by a dependency while running the code, please send me an email. We can try to solve it together, or I can do a demo by sharing my screen.
 
 ### References
-[1]: http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/Proj_Cabspotting.html
-[2]: Piorkowski, Michal, Natasa Sarafijanovic-Djukic, and Matthias Grossglauser. "A parsimonious model of mobile partitioned networks with clustering." 2009 First International Communication Systems and Networks and Workshops. IEEE, 2009.
+\[1\]: http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/Proj_Cabspotting.html
+\[2\]: Piorkowski, Michal, Natasa Sarafijanovic-Djukic, and Matthias Grossglauser. "A parsimonious model of mobile partitioned networks with clustering." 2009 First International Communication Systems and Networks and Workshops. IEEE, 2009.
