@@ -1,0 +1,8 @@
+haversine == 2.7.0
+lightgbm == 3.2.1
+optuna == 3.0.0
+pandas == 1.4.2
+scikit-mobility-unofficial == 1.0
+scikit_learn == 1.0.2
+shap == 0.41.0
+tqdm == 4.64.0
