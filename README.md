@@ -4,7 +4,7 @@
 
 The presentation below covers all the analysis done in this case study.
 
-https://docs.google.com/presentation/d/1ucWZ_gNz0yxrNQjgntfNSsLhPYvXXTrQkToMVind-dY/edit?usp=sharing
+[Presentation link](https://docs.google.com/presentation/d/1ucWZ_gNz0yxrNQjgntfNSsLhPYvXXTrQkToMVind-dY/edit?usp=sharing)
 
 `main.ipynb` has step-by-step analysis and explanations. If you want to re-run the code, install the required packages as suggested below.
 
